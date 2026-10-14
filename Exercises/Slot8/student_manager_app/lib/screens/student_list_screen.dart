@@ -5,7 +5,7 @@ import '../routes/app_routes.dart';
 import 'student_form_screen.dart';
 
 class StudentListScreen extends StatefulWidget {
-  const StudentListScreen({Key? key}) : super(key: key);
+  const StudentListScreen({super.key});
 
   @override
   State<StudentListScreen> createState() => _StudentListScreenState();

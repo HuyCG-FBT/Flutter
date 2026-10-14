@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import '../models/student.dart';
 
 class StudentDetailScreen extends StatelessWidget {
-  const StudentDetailScreen({Key? key}) : super(key: key);
+  const StudentDetailScreen({super.key});
 
   @override
   Widget build(BuildContext context) {

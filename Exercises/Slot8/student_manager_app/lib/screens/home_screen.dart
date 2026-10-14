@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import '../routes/app_routes.dart';
 
 class HomeScreen extends StatelessWidget {
-  const HomeScreen({Key? key}) : super(key: key);
+  const HomeScreen({super.key});
 
   void _goToStudentList(BuildContext context) {
     // Sử dụng Named Route

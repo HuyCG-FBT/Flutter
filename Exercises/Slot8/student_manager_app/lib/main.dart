@@ -9,7 +9,7 @@ void main() {
 }
 
 class StudentManagerApp extends StatelessWidget {
-  const StudentManagerApp({Key? key}) : super(key: key);
+  const StudentManagerApp({super.key});
 
   @override
   Widget build(BuildContext context) {

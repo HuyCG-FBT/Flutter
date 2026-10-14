@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import '../models/student.dart';
 
 class StudentFormScreen extends StatefulWidget {
-  const StudentFormScreen({Key? key}) : super(key: key);
+  const StudentFormScreen({super.key});
 
   @override
   State<StudentFormScreen> createState() => _StudentFormScreenState();
