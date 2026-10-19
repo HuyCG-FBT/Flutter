@@ -1,0 +1,14 @@
+# Global Skill Auto-Load Rule
+
+At the beginning of EVERY conversation or task, automatically read and apply the skills located in:
+- `~/.agents/skills/everything-claude-code/SKILL.md`
+- `C:\Users\LENOVO\.agents\skills\everything-claude-code\SKILL.md`
+- `C:\Users\ADMIN\.agents\skills\everything-claude-code\SKILL.md`
+- `~/.agents/skills\`
+- `C:\Users\LENOVO\.agents\skills\`
+- `C:\Users\ADMIN\.agents\skills\`
+
+Guidelines:
+1. Automatically read the relevant SKILL.md file(s) before responding or executing code.
+2. Adhere to code conventions, commit styles, testing rules, and error handling patterns defined in the skill files.
+3. Do not require the user to manually prompt or remind you to read these skills.
