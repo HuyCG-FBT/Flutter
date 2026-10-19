@@ -14,3 +14,4 @@ This folder contains all my exercises and labs for the PRM393 Flutter course.
 - [x] **Slot 9**: Simple Product Dashboard App (`Slot9/simple_dashboard_app`)
 - [x] **Slot 10**: Responsive Dashboard App (`Slot10/responsive_dashboard`)
 - [x] **Slot 11**: Smart Registration App (`Slot11/smart_registration_app`)
+- [x] **Slot 12**: Smart Profile Editor (`Slot12/smart_profile_editor`)
