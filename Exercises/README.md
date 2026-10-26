@@ -9,6 +9,7 @@ This folder contains all my exercises and labs for the PRM393 Flutter course.
 4. Run `flutter run`.
 
 ## List of Exercises
+- [x] **Slot 3**: Student Manager & Quick Shop Logic Demo (`Slot3/student_manager`, `Slot3/quick_shop_logic`)
 - [x] **Slot 7**: Simple Planner (`Slot7/simple_planner`)
 - [x] **Slot 8**: Student Manager App (`Slot8/student_manager_app`)
 - [x] **Slot 9**: Simple Product Dashboard App (`Slot9/simple_dashboard_app`)
