@@ -18,3 +18,4 @@ This folder contains all my exercises and labs for the PRM393 Flutter course.
 - [x] **Slot 12**: Smart Profile Editor (`Slot12/smart_profile_editor`)
 - [x] **Slot 13**: Product Explorer App (`Slot13/product_explorer`)
 - [x] **Slot 14**: Smart Task Manager - Offline-first (`Slot14/`)
+- [x] **Slot 15**: Smart Todo Backup App (`Slot15/todo_backup_app`)
