@@ -20,3 +20,4 @@ This folder contains all my exercises and labs for the PRM393 Flutter course.
 - [x] **Slot 14**: Smart Task Manager - Offline-first (`Slot14/`)
 - [x] **Slot 15**: Smart Todo Backup App (`Slot15/todo_backup_app`)
 - [x] **Slot 16**: Auth Session Demo App (`Slot16/auth_session_app`)
+- [x] **Slot 17**: Auth Session Demo App (`Slot17/auth_session_app`)
